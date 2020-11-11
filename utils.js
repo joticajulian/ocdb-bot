@@ -1,8 +1,7 @@
 var fs = require("fs");
 const steem = require('@hivechain/steem-js');
-var firebase = require('firebase-admin');
-var firebaseServiceAccount = require('./firebase-credentials.json');
 var config = require('./config.js')
+var firebase = require('firebase-admin');
 
 var STEEMIT_100_PERCENT = 10000;
 var STEEMIT_VOTE_REGENERATION_SECONDS = (5 * 60 * 60 * 24);
@@ -22,7 +21,7 @@ var HOURS = 60 * 60;
  var globalPropertiesLoaded = false;
  
 firebase.initializeApp({
-    credential: firebase.credential.cert(firebaseServiceAccount),
+    credential: firebase.credential.cert(config.firebaseCredentials),
     databaseURL: 'https://steem-bid-bot.firebaseio.com/'
 },"utils"); 
 
