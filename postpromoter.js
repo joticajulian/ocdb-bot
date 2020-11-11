@@ -5,7 +5,6 @@ const { Client, PrivateKey } = require("@hiveio/dhive");
 var utils = require('./utils');
 var config = require('./config.js')
 var firebase = require('firebase-admin');
-var firebaseServiceAccount = require('./firebase-credentials.json');
 
 var dsteem = null
 var account = null;
@@ -50,7 +49,7 @@ startup();
 
 function loadFirebase() {
   firebase.initializeApp({
-    credential: firebase.credential.cert(firebaseServiceAccount),
+    credential: firebase.credential.cert(config.firebaseCredentials),
     databaseURL: 'https://steem-bid-bot.firebaseio.com/'
   });
   

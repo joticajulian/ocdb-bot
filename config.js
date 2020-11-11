@@ -92,6 +92,7 @@ const rpc_nodes = [
 module.exports = {
   // steemKeys
   ...steemKeys,
+  firebaseCredentials,
 
   // config
   rpc_nodes,
