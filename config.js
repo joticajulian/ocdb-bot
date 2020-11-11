@@ -10,6 +10,7 @@ const steemKeys = {
   owner_account: 'ocd',
   fund_account: 'ocdbfund'
 };
+const firebaseCredentials = JSON.parse(Buffer.from(process.env.FIREBASE_CREDENTIALS, "base64").toString("utf8"));
 
 const backup_mode = false
 const disabled_mode = false
