@@ -327,6 +327,7 @@ async function runHandleTransactionQueue() {
 async function handleTransactionQueue() {
   var opsToLaunch = []
   var typeKey = ''
+  var usingTransfer = false;
   var available_comments = 1
   var available_votes = 1
 
@@ -433,6 +434,7 @@ async function handleTransactionQueue() {
         if(trx.operation[0] === 'comment') available_comments = 0
         if(trx.operation[0] === 'vote')    available_votes = 0
 
+        if(trx.operation[0] === 'transfer') usingTransfer = true;
       }else if(
         (typeKey === 'active'  && needActiveKey) ||
         (typeKey === 'posting' && !needActiveKey)
@@ -443,8 +445,12 @@ async function handleTransactionQueue() {
         }else if(trx.operation[0] === 'vote'){
           if(available_votes>0) opsToLaunch.push(key)
           available_votes = 0
-        }else{
-          opsToLaunch.push(key)           
+        }else if(usingTransfer) {
+          if(trx.operation[0] === 'transfer') {
+            opsToLaunch.push(key);
+          }
+        }else {
+          opsToLaunch.push(key);
         }
       }
     }
