@@ -1,0 +1,2279 @@
+[
+  {
+    "id": 1119862,
+    "delegator": "aaronleang",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "297383910863",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-11-29T10:48:18"
+  },
+  {
+    "id": 1357754,
+    "delegator": "abh12345",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "19249415127809",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-05T20:59:09"
+  },
+  {
+    "id": 1243002,
+    "delegator": "access",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "795619733354",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-07-02T06:03:33"
+  },
+  {
+    "id": 1314225,
+    "delegator": "acidzapps",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1933974663",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-01-12T11:50:39"
+  },
+  {
+    "id": 1331617,
+    "delegator": "adm",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "300000000000000",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-06T19:27:21"
+  },
+  {
+    "id": 1332590,
+    "delegator": "ahmadmanga",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "3277024683653",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-18T20:13:12"
+  },
+  {
+    "id": 1332782,
+    "delegator": "ahmadmangazap",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "482285022133",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-21T16:06:57"
+  },
+  {
+    "id": 1228599,
+    "delegator": "alfredmusic",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "99661280048",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-27T03:14:12"
+  },
+  {
+    "id": 1341427,
+    "delegator": "allboutgames",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "969069733463",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-06-25T22:31:36"
+  },
+  {
+    "id": 1217038,
+    "delegator": "allyinspirit",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "199627392970",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-01T03:07:12"
+  },
+  {
+    "id": 1342861,
+    "delegator": "andimywapblog12",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "858275637918",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-06T12:53:54"
+  },
+  {
+    "id": 1331210,
+    "delegator": "anttn",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "390484370450",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-01T17:55:00"
+  },
+  {
+    "id": 1119664,
+    "delegator": "ardina",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "4520000000000",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-11-28T16:19:27"
+  },
+  {
+    "id": 1331162,
+    "delegator": "arrliinn",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "390307960379",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-01T07:09:18"
+  },
+  {
+    "id": 1344901,
+    "delegator": "atma.love",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "9712311482590",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-18T19:46:30"
+  },
+  {
+    "id": 1355707,
+    "delegator": "azircon",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "19277961645895",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-19T21:10:57"
+  },
+  {
+    "id": 1300119,
+    "delegator": "barbara-orenya",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "985859918592",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-11-24T18:04:03"
+  },
+  {
+    "id": 1359305,
+    "delegator": "bartman67",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "96103450397",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-21T22:02:48"
+  },
+  {
+    "id": 1324028,
+    "delegator": "bdmillergallery",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "588660905182",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-02-13T19:40:57"
+  },
+  {
+    "id": 1178035,
+    "delegator": "bengy",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "398945103089",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-03-06T07:23:00"
+  },
+  {
+    "id": 1246200,
+    "delegator": "berien",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "198746848241",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-07-15T16:17:00"
+  },
+  {
+    "id": 1359422,
+    "delegator": "bhattg",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "192176135884",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-23T15:16:39"
+  },
+  {
+    "id": 1309333,
+    "delegator": "bigmoneyman",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "19676196913",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-12-29T13:09:33"
+  },
+  {
+    "id": 1295284,
+    "delegator": "bilpcoin.pay",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "39472303039",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-11-08T16:27:45"
+  },
+  {
+    "id": 1295704,
+    "delegator": "bilpcoinrecords",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "49332079395",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-11-11T11:58:06"
+  },
+  {
+    "id": 1349692,
+    "delegator": "bittman",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "259231545836",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-08-14T08:25:21"
+  },
+  {
+    "id": 1107300,
+    "delegator": "bjornb",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "199240196870",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-11-09T16:10:03"
+  },
+  {
+    "id": 1121336,
+    "delegator": "blewitt",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "989331851584",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-12-05T05:39:15"
+  },
+  {
+    "id": 1259454,
+    "delegator": "blind-spot",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "197236501846",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-08-06T11:13:18"
+  },
+  {
+    "id": 1167003,
+    "delegator": "blockchain-kid",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "100219939511",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-02-19T09:19:39"
+  },
+  {
+    "id": 933999,
+    "delegator": "blocktrades",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2000040171902605",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-05-25T22:14:30"
+  },
+  {
+    "id": 1127974,
+    "delegator": "bluebellwalk",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "40187863557",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-01-06T16:35:12"
+  },
+  {
+    "id": 1211477,
+    "delegator": "boyanpro",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2175053328272",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-04-23T13:27:30"
+  },
+  {
+    "id": 1303477,
+    "delegator": "bpcvoter",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "17536873336",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-12-05T15:15:30"
+  },
+  {
+    "id": 1168238,
+    "delegator": "cameravisual",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "40084491440",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-02-20T21:15:09"
+  },
+  {
+    "id": 1360735,
+    "delegator": "carita-feliz",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "19190087177",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-11-07T21:00:06"
+  },
+  {
+    "id": 1350566,
+    "delegator": "cesarisaad",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "231225578234",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-08-19T02:50:06"
+  },
+  {
+    "id": 1360355,
+    "delegator": "circa",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "19883074808223",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-11-02T16:05:09"
+  },
+  {
+    "id": 1359424,
+    "delegator": "cnfund",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "76842057902563",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-23T15:51:03"
+  },
+  {
+    "id": 1180099,
+    "delegator": "connecteconomy",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "200233324185",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-03-09T07:09:06"
+  },
+  {
+    "id": 1299459,
+    "delegator": "conradt",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2111266276603",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-11-22T06:16:15"
+  },
+  {
+    "id": 1120967,
+    "delegator": "cre47iv3",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "90593610848",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-12-03T17:39:15"
+  },
+  {
+    "id": 1225639,
+    "delegator": "cryptictruth",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1158099535447",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-19T19:28:24"
+  },
+  {
+    "id": 1242845,
+    "delegator": "cryptocurator",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1977382205388",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-07-01T20:20:24"
+  },
+  {
+    "id": 1359902,
+    "delegator": "cryptopie",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "9604384318962",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-28T19:16:48"
+  },
+  {
+    "id": 1235720,
+    "delegator": "cyberspacegod",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "991807903766",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-06-12T06:11:51"
+  },
+  {
+    "id": 1232967,
+    "delegator": "damm",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "9961290021",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-06-04T12:26:33"
+  },
+  {
+    "id": 1335401,
+    "delegator": "dawnoner",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "96497266446",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-05-23T20:49:39"
+  },
+  {
+    "id": 1140100,
+    "delegator": "detlev",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1004074449492",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-01-15T09:25:57"
+  },
+  {
+    "id": 1183730,
+    "delegator": "diggndeeper.com",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2001739976422",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-03-14T12:34:03"
+  },
+  {
+    "id": 1343079,
+    "delegator": "digital-wisdom",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1940950518494",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-07T16:02:48"
+  },
+  {
+    "id": 1358241,
+    "delegator": "digitalis",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "192420995363",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-10T11:03:45"
+  },
+  {
+    "id": 1348561,
+    "delegator": "dilimunanzar",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "580560646048",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-08-09T02:13:00"
+  },
+  {
+    "id": 1336243,
+    "delegator": "divinekids",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "194750421549",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-05-31T08:09:45"
+  },
+  {
+    "id": 1360092,
+    "delegator": "djynn",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "14200146238424",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-30T16:57:27"
+  },
+  {
+    "id": 1323653,
+    "delegator": "dksart",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "394291220712",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-02-12T19:31:18"
+  },
+  {
+    "id": 1324368,
+    "delegator": "dorman",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "489436605050",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-02-14T19:50:21"
+  },
+  {
+    "id": 1117836,
+    "delegator": "ellis.marell",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "50299047981",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-11-23T09:13:27"
+  },
+  {
+    "id": 867306,
+    "delegator": "elteamgordo",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1005190541027",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-04-21T19:26:12"
+  },
+  {
+    "id": 1183949,
+    "delegator": "emma-hs",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "60040416339",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-03-14T17:29:39"
+  },
+  {
+    "id": 1358145,
+    "delegator": "emsonic",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "8081968070537",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-09T13:51:51"
+  },
+  {
+    "id": 1203829,
+    "delegator": "englishtchrivy",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "3997078063553",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-04-11T13:42:48"
+  },
+  {
+    "id": 1349163,
+    "delegator": "ericha",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "193475062110",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-08-11T17:44:39"
+  },
+  {
+    "id": 1274476,
+    "delegator": "fieryfootprints",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "198053000000",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-09-11T13:15:24"
+  },
+  {
+    "id": 1247043,
+    "delegator": "flamo",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "198707281649",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-07-18T23:04:45"
+  },
+  {
+    "id": 1360948,
+    "delegator": "flugschwein",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2655187797856",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-11-10T17:29:24"
+  },
+  {
+    "id": 1264945,
+    "delegator": "forykw",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "198318078369",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-08-20T00:50:03"
+  },
+  {
+    "id": 1276695,
+    "delegator": "foxxycat",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "7524053276574",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-09-15T20:18:06"
+  },
+  {
+    "id": 1342488,
+    "delegator": "frankches",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "38831737042",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-04T02:08:39"
+  },
+  {
+    "id": 1277374,
+    "delegator": "gabrielatravels",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "586633927303",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-09-17T13:18:48"
+  },
+  {
+    "id": 1194149,
+    "delegator": "gargi",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "49763311454",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-03-28T12:14:21"
+  },
+  {
+    "id": 1359811,
+    "delegator": "ghastlygames",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "96050482165",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-27T20:16:51"
+  },
+  {
+    "id": 1304309,
+    "delegator": "gmlrecordz",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "39400041906",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-12-09T07:20:36"
+  },
+  {
+    "id": 1173925,
+    "delegator": "grizzabella",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "20033056095",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-02-28T20:06:09"
+  },
+  {
+    "id": 1330965,
+    "delegator": "guchtere",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1467868575267",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-03-29T16:41:24"
+  },
+  {
+    "id": 1330272,
+    "delegator": "hafizullah",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "195827923122",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-03-21T16:44:51"
+  },
+  {
+    "id": 1355063,
+    "delegator": "hato",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1080009197981",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-15T10:20:24"
+  },
+  {
+    "id": 1342538,
+    "delegator": "hiddenblade",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "16105787957792",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-04T11:42:06"
+  },
+  {
+    "id": 1282908,
+    "delegator": "horoscopology",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "3165124231855",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-09-30T22:45:24"
+  },
+  {
+    "id": 1175319,
+    "delegator": "hotbit",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "200317356973",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-03-01T23:30:51"
+  },
+  {
+    "id": 1359490,
+    "delegator": "howo",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "482319907298",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-24T14:04:57"
+  },
+  {
+    "id": 1124284,
+    "delegator": "igsamuel",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "540092744100",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-12-19T14:45:15"
+  },
+  {
+    "id": 1153349,
+    "delegator": "insaneworks",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "119044167677",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-01-31T23:10:15"
+  },
+  {
+    "id": 1358172,
+    "delegator": "inu-jim",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1342963152961",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-09T18:33:33"
+  },
+  {
+    "id": 1347147,
+    "delegator": "jacuzzi",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "968288480576",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-08-01T08:02:12"
+  },
+  {
+    "id": 1128356,
+    "delegator": "janinewiggert",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "570615939015",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-01-08T07:37:42"
+  },
+  {
+    "id": 1339092,
+    "delegator": "jatochnietdan",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2196983480468",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-06-09T07:55:33"
+  },
+  {
+    "id": 1265055,
+    "delegator": "javiersebastian",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "99157219371",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-08-20T07:58:45"
+  },
+  {
+    "id": 1360830,
+    "delegator": "jeanlucsr",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "191882230526",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-11-08T21:38:39"
+  },
+  {
+    "id": 1306373,
+    "delegator": "jeanpi1908",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1476924432203",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-12-15T19:58:00"
+  },
+  {
+    "id": 1347032,
+    "delegator": "jimmyvidal",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "164346987256",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-31T15:44:39"
+  },
+  {
+    "id": 1125360,
+    "delegator": "jordangerder",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "20106884314",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-12-26T02:42:18"
+  },
+  {
+    "id": 1330401,
+    "delegator": "joshmania",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "3360721648223",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-03-23T15:10:54"
+  },
+  {
+    "id": 1354323,
+    "delegator": "justinparke",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "192280135239",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-09T18:14:21"
+  },
+  {
+    "id": 1306542,
+    "delegator": "justlee87",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "29467256665",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-12-16T04:56:54"
+  },
+  {
+    "id": 1331148,
+    "delegator": "juvyjabian",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1956813569938",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-01T02:25:15"
+  },
+  {
+    "id": 1301986,
+    "delegator": "karinxxl",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "985525548934",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-11-30T10:05:00"
+  },
+  {
+    "id": 1343790,
+    "delegator": "kennyroy",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "194012704850",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-12T07:32:06"
+  },
+  {
+    "id": 1346798,
+    "delegator": "keuudeip",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "192823876266",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-30T10:16:45"
+  },
+  {
+    "id": 1330514,
+    "delegator": "kgakakillerg",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "576703169491",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-03-24T19:41:42"
+  },
+  {
+    "id": 1313728,
+    "delegator": "kgcoin",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "39326490556",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-01-09T13:52:12"
+  },
+  {
+    "id": 1305187,
+    "delegator": "kggymlife",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "98487045128",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-12-11T12:22:27"
+  },
+  {
+    "id": 1313312,
+    "delegator": "kgsupport",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "19664409494",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-01-08T14:10:45"
+  },
+  {
+    "id": 1238175,
+    "delegator": "kgswallet",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "99531608744",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-06-18T14:12:06"
+  },
+  {
+    "id": 1304644,
+    "delegator": "khaimi",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "196990574627",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-12-10T02:53:36"
+  },
+  {
+    "id": 1333299,
+    "delegator": "kidsisters",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "48817415169",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-28T11:41:09"
+  },
+  {
+    "id": 1353567,
+    "delegator": "kiemurainen",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "42646383207367",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-04T08:32:06"
+  },
+  {
+    "id": 1223605,
+    "delegator": "kimzwarch",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "199480023689",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-13T15:26:00"
+  },
+  {
+    "id": 1339505,
+    "delegator": "kingfadino",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1945522630755",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-06-11T19:44:39"
+  },
+  {
+    "id": 1228490,
+    "delegator": "kkarenmp",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "197013247664",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-26T16:35:18"
+  },
+  {
+    "id": 1341241,
+    "delegator": "kosikredki",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "928766538198",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-06-24T10:30:15"
+  },
+  {
+    "id": 1336019,
+    "delegator": "kristyglas",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1346961767366",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-05-29T14:01:15"
+  },
+  {
+    "id": 1316340,
+    "delegator": "leighscotford",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "147384089991",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-01-19T19:53:48"
+  },
+  {
+    "id": 1356277,
+    "delegator": "louis88",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "963533265251",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-23T22:48:27"
+  },
+  {
+    "id": 1335997,
+    "delegator": "lukestokes",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "38957431564070",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-05-29T03:35:03"
+  },
+  {
+    "id": 1334469,
+    "delegator": "lukestokes.mhth",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "97523505375557",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-05-13T03:48:12"
+  },
+  {
+    "id": 1354862,
+    "delegator": "lunaticpandora",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "21188007469152",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-13T23:26:57"
+  },
+  {
+    "id": 1270873,
+    "delegator": "luvlylady",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "3963353709",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-09-01T14:04:33"
+  },
+  {
+    "id": 1241141,
+    "delegator": "macchiata",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "976810787312",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-06-26T12:01:54"
+  },
+  {
+    "id": 1360515,
+    "delegator": "maleidamarcano",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "191949084866",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-11-05T05:50:18"
+  },
+  {
+    "id": 1219014,
+    "delegator": "maquemali",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "399180882817",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-04T06:38:42"
+  },
+  {
+    "id": 1344687,
+    "delegator": "marciabon",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "48327317892",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-17T13:09:21"
+  },
+  {
+    "id": 1128331,
+    "delegator": "mariusjuk",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "4899410141713",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-01-08T04:31:39"
+  },
+  {
+    "id": 1229794,
+    "delegator": "mayb",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "597879503060",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-29T16:12:42"
+  },
+  {
+    "id": 1353282,
+    "delegator": "mayfhelg",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "96541391983",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-02T20:49:36"
+  },
+  {
+    "id": 1341244,
+    "delegator": "melinda010100",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1554631767651",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-06-24T11:21:06"
+  },
+  {
+    "id": 1332721,
+    "delegator": "mhshoumik",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "299338128119",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-20T23:38:21"
+  },
+  {
+    "id": 1301198,
+    "delegator": "milkcrate",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1971362125346",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-11-27T18:51:12"
+  },
+  {
+    "id": 1334674,
+    "delegator": "minimining",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "96696586489",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-05-15T16:31:03"
+  },
+  {
+    "id": 1237758,
+    "delegator": "modernzorker",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "386047448170",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-06-16T17:22:54"
+  },
+  {
+    "id": 1198713,
+    "delegator": "momone",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "429875750446",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-04-03T19:50:45"
+  },
+  {
+    "id": 1349719,
+    "delegator": "moonunit",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "193424647050",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-08-14T12:18:39"
+  },
+  {
+    "id": 1331185,
+    "delegator": "murathe",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "9783806860",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-01T11:00:09"
+  },
+  {
+    "id": 1356955,
+    "delegator": "muscara",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "96311227114",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-28T16:14:24"
+  },
+  {
+    "id": 1185857,
+    "delegator": "musicapoetica",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "60040840570",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-03-17T20:36:21"
+  },
+  {
+    "id": 1308516,
+    "delegator": "myjourney",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "4527115670572",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-12-23T15:56:09"
+  },
+  {
+    "id": 1264518,
+    "delegator": "neoalpha",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "195741396835",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-08-19T14:01:15"
+  },
+  {
+    "id": 1185253,
+    "delegator": "newageinv",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1000739441113",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-03-16T19:48:09"
+  },
+  {
+    "id": 1340199,
+    "delegator": "neyxirncn",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "58342975920",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-06-16T03:31:48"
+  },
+  {
+    "id": 1236295,
+    "delegator": "nikkitoo",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "597387858254",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-06-12T20:24:45"
+  },
+  {
+    "id": 1357886,
+    "delegator": "oks2crypto",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "76990298779",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-06T21:45:36"
+  },
+  {
+    "id": 1331173,
+    "delegator": "papilloncharity",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1956780431938",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-01T07:55:18"
+  },
+  {
+    "id": 1346943,
+    "delegator": "perceval",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "367989049898",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-31T03:44:24"
+  },
+  {
+    "id": 1210393,
+    "delegator": "planetauto",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "499322157682",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-04-22T10:31:12"
+  },
+  {
+    "id": 1221819,
+    "delegator": "potplucker",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1940158373220",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-09T03:59:18"
+  },
+  {
+    "id": 1093820,
+    "delegator": "preparedwombat",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1942398902303",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-10-22T15:10:12"
+  },
+  {
+    "id": 1260789,
+    "delegator": "priyanarc",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "196925572263",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-08-09T08:10:27"
+  },
+  {
+    "id": 1137507,
+    "delegator": "qira",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2008742080",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-01-12T12:17:21"
+  },
+  {
+    "id": 1267461,
+    "delegator": "redheadpei",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "495647819126",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-08-24T20:53:51"
+  },
+  {
+    "id": 1289759,
+    "delegator": "rehan12",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "197577501400",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-10-21T09:25:27"
+  },
+  {
+    "id": 1333407,
+    "delegator": "richardfyates",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "195252447622",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-29T15:46:42"
+  },
+  {
+    "id": 1352753,
+    "delegator": "richgaynor",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "486331000000",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-08-30T18:13:57"
+  },
+  {
+    "id": 1332314,
+    "delegator": "rimicane",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2932145333900",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-14T21:10:39"
+  },
+  {
+    "id": 1331194,
+    "delegator": "riverflows",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "388922684704",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-01T13:16:57"
+  },
+  {
+    "id": 1333301,
+    "delegator": "rmach",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2399779581596",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-28T12:04:54"
+  },
+  {
+    "id": 1346802,
+    "delegator": "roamingsparrow",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "774764285429",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-30T10:37:51"
+  },
+  {
+    "id": 1332358,
+    "delegator": "roleerob",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1954659899180",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-15T13:31:09"
+  },
+  {
+    "id": 1352473,
+    "delegator": "romeskie",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "575615855094",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-08-29T01:34:36"
+  },
+  {
+    "id": 1289588,
+    "delegator": "rosatravels",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "7903495030724",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-10-20T13:27:36"
+  },
+  {
+    "id": 1094636,
+    "delegator": "rrahim",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2017532971",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-10-25T05:29:39"
+  },
+  {
+    "id": 1332158,
+    "delegator": "saffisara",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "977537836499",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-12T20:09:21"
+  },
+  {
+    "id": 1354978,
+    "delegator": "sanchezmarya",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "63646499383",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-14T21:33:36"
+  },
+  {
+    "id": 1093070,
+    "delegator": "saracampero",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "100903147651",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-10-20T08:27:03"
+  },
+  {
+    "id": 1239832,
+    "delegator": "sawyn",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "99877181246",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-06-23T04:27:33"
+  },
+  {
+    "id": 1341306,
+    "delegator": "schubes",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "194252691239",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-06-24T23:59:00"
+  },
+  {
+    "id": 1225376,
+    "delegator": "shemzee",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "19942227931",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-18T13:44:15"
+  },
+  {
+    "id": 1355389,
+    "delegator": "shopping-dream",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2113297043789",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-17T15:40:06"
+  },
+  {
+    "id": 1344675,
+    "delegator": "sidwrites",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "969604974911",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-17T11:47:42"
+  },
+  {
+    "id": 1289505,
+    "delegator": "silent.screamer",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "394433193397",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-10-19T23:46:51"
+  },
+  {
+    "id": 1227955,
+    "delegator": "sjennon",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1195146540801",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-24T14:15:57"
+  },
+  {
+    "id": 1339038,
+    "delegator": "slobberchops",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "961085984262",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-06-08T21:40:36"
+  },
+  {
+    "id": 1259541,
+    "delegator": "smalltall",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "198481039608",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-08-06T15:19:12"
+  },
+  {
+    "id": 1360154,
+    "delegator": "solominer",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "48008883174014",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-31T11:23:33"
+  },
+  {
+    "id": 1094849,
+    "delegator": "sophiegeek",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "19488525086",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-10-25T22:56:00"
+  },
+  {
+    "id": 1343107,
+    "delegator": "sreypov",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "9704646624",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-07T18:57:54"
+  },
+  {
+    "id": 1298097,
+    "delegator": "starjewel",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "3903592679457",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-11-19T15:15:03"
+  },
+  {
+    "id": 1207093,
+    "delegator": "steemflow",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1996724013150",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-04-17T03:12:00"
+  },
+  {
+    "id": 1331993,
+    "delegator": "steemlondon",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "19554190892",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-10T13:01:39"
+  },
+  {
+    "id": 1216506,
+    "delegator": "steemmagnet",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "898355856322",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-04-30T12:18:21"
+  },
+  {
+    "id": 1338494,
+    "delegator": "stortebeker",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "206940815286",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-06-05T20:10:54"
+  },
+  {
+    "id": 1331142,
+    "delegator": "strawhat",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "25377872829398",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-03-31T23:57:45"
+  },
+  {
+    "id": 1321578,
+    "delegator": "stream-master",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "5947949153813",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-02-06T17:42:09"
+  },
+  {
+    "id": 1288106,
+    "delegator": "sunray",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "11858735897138",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-10-15T15:33:00"
+  },
+  {
+    "id": 1331573,
+    "delegator": "super-em",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "312973071811",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-06T02:23:51"
+  },
+  {
+    "id": 1273250,
+    "delegator": "taliakerch",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "3961662450712",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-09-09T02:17:27"
+  },
+  {
+    "id": 1236300,
+    "delegator": "tapeworm16",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "497782713985",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-06-12T20:27:09"
+  },
+  {
+    "id": 1209135,
+    "delegator": "taskmaster4450",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "8173790756443",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-04-19T14:52:09"
+  },
+  {
+    "id": 1314137,
+    "delegator": "teamocd",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2294086847119",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-01-11T18:44:06"
+  },
+  {
+    "id": 1355387,
+    "delegator": "thebluewin",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "9628487599027",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-09-17T15:35:03"
+  },
+  {
+    "id": 1329589,
+    "delegator": "thejohalfiles",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1958981876033343",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-03-14T20:02:51"
+  },
+  {
+    "id": 1244677,
+    "delegator": "tijntje",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "497069635567",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-07-08T20:08:21"
+  },
+  {
+    "id": 1244132,
+    "delegator": "torico",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "198857921782",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-07-06T06:36:57"
+  },
+  {
+    "id": 1128354,
+    "delegator": "toyman",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "602763395206",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-01-08T07:34:18"
+  },
+  {
+    "id": 1357668,
+    "delegator": "trangbaby",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "385016487091",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-05T02:02:39"
+  },
+  {
+    "id": 1346644,
+    "delegator": "vannour",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "391286552936",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-07-29T14:07:18"
+  },
+  {
+    "id": 1107166,
+    "delegator": "verhp11",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1479044959959",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-11-09T06:06:42"
+  },
+  {
+    "id": 1224347,
+    "delegator": "wanderwithtwo",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1920262248156",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-05-16T04:58:45"
+  },
+  {
+    "id": 1288464,
+    "delegator": "yakovsevsk",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "9881358018",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-10-17T04:52:54"
+  },
+  {
+    "id": 1350245,
+    "delegator": "yanga",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1929979415682",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-08-17T10:05:54"
+  },
+  {
+    "id": 1358091,
+    "delegator": "ybanezkim26",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "4810944455894",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-10-09T01:46:21"
+  },
+  {
+    "id": 1093597,
+    "delegator": "yo-yo",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1003493833648",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-10-22T01:14:03"
+  },
+  {
+    "id": 1336189,
+    "delegator": "z3ll",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "584272914566",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-05-30T21:43:30"
+  },
+  {
+    "id": 1360345,
+    "delegator": "zhoten",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "330094596676",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-11-02T14:11:24"
+  },
+  {
+    "id": 1122731,
+    "delegator": "zoexantelamv",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "40246452686",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2018-12-11T11:20:54"
+  },
+  {
+    "id": 1145444,
+    "delegator": "zoltarian",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "2897951042327",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2019-01-21T11:44:42"
+  },
+  {
+    "id": 1332003,
+    "delegator": "zulqaini",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "1955405372",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-10T15:05:21"
+  },
+  {
+    "id": 1332722,
+    "delegator": "zyanf",
+    "delegatee": "ocdb",
+    "vesting_shares": {
+      "amount": "97691717971",
+      "precision": 6,
+      "nai": "@@000000037"
+    },
+    "min_delegation_time": "2020-04-20T23:41:12"
+  }
+]

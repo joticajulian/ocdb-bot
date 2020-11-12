@@ -19,6 +19,7 @@
     "@hivechain/dsteem": "^0.12.14",
     "@hivechain/steem-js": "^0.7.12",
     "@hiveio/dhive": "^0.14.8",
+    "axios": "^0.21.0",
     "bluebird": "^3.7.2",
     "dotenv": "^8.2.0",
     "express": "^4.16.2",
