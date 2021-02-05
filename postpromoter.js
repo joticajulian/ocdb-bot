@@ -518,6 +518,7 @@ async function handleTransactionQueue() {
       }else if(error.message.includes('Cannot claim that much VESTS')){
         utils.log('Removing operation from queue because the claims are too much')
         setFoundOperation = 'claim_reward_balance'
+        isClaimingRewards = false
       }
       if(setFoundOperation !== ''){
         for (var i in opsToLaunch) {
