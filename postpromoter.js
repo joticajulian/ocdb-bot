@@ -326,7 +326,7 @@ async function runHandleTransactionQueue() {
 }
 async function handleTransactionQueue() {
   var opsToLaunch = []
-  var typeKey = ''
+  var typeOps = ''
   var usingTransfer = false;
   var available_comments = 1
   var available_votes = 1
@@ -425,33 +425,13 @@ async function handleTransactionQueue() {
     }
     else if(!trx.launched && opsToLaunch.length < 20){  // include maximum 20 operations in a transaction
       // separate transfers (active key) from votes, comments and claim rewards (posting key)
-      const needActiveKey = trx.operation[0] === 'transfer' || trx.operation[0] === 'claim_reward_balance';
-      if(typeKey === '') {
+      const isTransfer = trx.operation[0] === 'transfer';
+      if(typeOps === '') {
         opsToLaunch.push(key)
-        if(needActiveKey) typeKey = 'active'
-        else typeKey = 'posting'
-        
-        if(trx.operation[0] === 'comment') available_comments = 0
-        if(trx.operation[0] === 'vote')    available_votes = 0
-
-        if(trx.operation[0] === 'transfer') usingTransfer = true;
-      }else if(
-        (typeKey === 'active'  && needActiveKey) ||
-        (typeKey === 'posting' && !needActiveKey)
-      ){
-        if(trx.operation[0] === 'comment'){
-          if(available_comments>0) opsToLaunch.push(key)
-          available_comments = 0
-        }else if(trx.operation[0] === 'vote'){
-          if(available_votes>0) opsToLaunch.push(key)
-          available_votes = 0
-        }else if(usingTransfer) {
-          if(trx.operation[0] === 'transfer') {
-            opsToLaunch.push(key);
-          }
-        }else {
-          opsToLaunch.push(key);
-        }
+        if(isTransfer) typeOps = 'transfer'
+        else typeOps = 'claim'
+      } else if(typeOps === 'transfer') {
+        if(isTransfer) opsToLaunch.push(key);
       }
     }
     else if(
@@ -488,7 +468,6 @@ async function handleTransactionQueue() {
     saveTransactionQueue()
 
     try{
-      //var privKey = typeKey === 'active' ? config.active_key_pay : config.posting_key
       var privKey = config.active_key_pay;
       var response = await dsteem.broadcast.sendOperations( operations , PrivateKey.fromString(privKey) )
       if(!response.block_num) throw new Error('There is a response but no actual block_num on it. Response: '+JSON.stringify(response))
