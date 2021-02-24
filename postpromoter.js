@@ -356,7 +356,7 @@ async function handleTransactionQueue() {
       new Date(trx.time_last_block_checked + 'Z') <= new Date(trx.expiration + 'Z')
     ) 
     {
-      utils.log('Time to check transaction '+key+': '+JSON.stringify(trx))
+      // utils.log('Time to check transaction '+key)
         
       // block: block number where we start to check if the transaction was performed
       var block = trx.checked_to + 1
@@ -396,11 +396,11 @@ async function handleTransactionQueue() {
           if(!transaction_queue[key].found) {
             utils.log('Transaction not found. key:'+key+'. Range of blocks checked: '+trx.checked_from+' - '+trx.checked_to)
             transaction_queue[key].retries++
-            if( transaction_queue[key].retries < 3 ) {
+            if( transaction_queue[key].retries < 0 ) {
               utils.log('Launching again. Retry number '+ transaction_queue[key].retries ) 
               transaction_queue[key].launched = false
             }else{
-              utils.log('Retries='+transaction_queue[key].retries+'. No more retries')
+              // utils.log('Retries='+transaction_queue[key].retries+'. No more retries')
               callbackCatchAfterTransaction(trx)
             }
           }
